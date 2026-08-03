@@ -1,5 +1,5 @@
 # 👨‍💻 Antony Xristoc
-**`Flutter Developer · Linux Enthusiast · Open-Source Builder`**
+**`Flutter Developer · Linux Enthusiast · Project Builder`**
 ---
 
 ### 🧰 Languages and Tools
@@ -31,7 +31,7 @@
 
 ---
 
-### 🏗️ What I'm Building
+### What I'm Building
 
 - **Todo CLI** (Done ✅)
 - **Calculator CLI** (Done ✅)
@@ -41,7 +41,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonyxristoc)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonyxristoc)
@@ -50,7 +50,7 @@
 ---
 
 <details>
- <summary><h3>🚀 My Coding Journey</h3></summary>
+ <summary><h3>My Coding Workflow</h3></summary>
    I started with Linux, bash, and the terminal. I learned how computers actually work before I learned how to code. That foundation taught me to debug from first principles, not just copy-paste from StackOverflow.
 
    Now I'm building Flutter apps, integrating Firebase, and shipping real projects. My goal is to build SaaS products that solve real problems and get hired doing what I love.
