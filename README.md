@@ -18,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
+
 ---
 
 ### 📱 Featured Projects
